@@ -18,11 +18,7 @@ Welcome to **Tasty Street Bites**, a vibrant, fully responsive website that capt
 - 📱 Fully Responsive – works on mobile, tablet, and desktop
 
 ---
-
-## ✨ Live Preview
-
-> _Coming Soon..._ (Add GitHub Pages or hosted URL here)
-
+[Project Preview] ()
 ---
 
 ## 🧪 Tech Stack
