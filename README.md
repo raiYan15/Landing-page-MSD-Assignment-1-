@@ -18,8 +18,7 @@ Welcome to **Tasty Street Bites**, a vibrant, fully responsive website that capt
 - 📱 Fully Responsive – works on mobile, tablet, and desktop
 
 ---
-[Project Preview] ()
----
+![Project Preview] (https://github.com/raiYan15/Landing-page-MSD-Assignment-1-/blob/main/Rai.png?raw=true)
 
 ## 🧪 Tech Stack
 
